@@ -1,0 +1,30 @@
+{
+  "xsec": 3.68,
+  "year": "2016",
+  "treeName": "Events",
+  "histAxisName": "ST_top_s-channel_centralUL16",
+  "options": "",
+  "WCnames": [],
+  "files": [
+    "/store/mc/RunIISummer20UL16NanoAODv9/ST_s-channel_4f_leptonDecays_TuneCP5up_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v2/2500000/2F69E7A6-4BDE-ED4C-845E-E01D82A347F4.root",
+    "/store/mc/RunIISummer20UL16NanoAODv9/ST_s-channel_4f_leptonDecays_TuneCP5up_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v2/2500000/38CC62F2-889E-3049-80FE-B92BFA4EC1ED.root",
+    "/store/mc/RunIISummer20UL16NanoAODv9/ST_s-channel_4f_leptonDecays_TuneCP5up_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v2/2500000/6CF16086-DCA6-D64C-8020-14EF637382A6.root",
+    "/store/mc/RunIISummer20UL16NanoAODv9/ST_s-channel_4f_leptonDecays_TuneCP5up_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v2/40000/1144C0AA-F8DB-FA40-A116-63632C7C8AF8.root",
+    "/store/mc/RunIISummer20UL16NanoAODv9/ST_s-channel_4f_leptonDecays_TuneCP5up_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v2/40000/70BAB8A4-9857-A34A-B963-A1D7DBE9673E.root"
+  ],
+  "nEvents": 2599000,
+  "nGenEvents": 2599000,
+  "nSumOfWeights": 9229726.931358002,
+  "isData": false,
+  "path": "/store/mc/RunIISummer20UL16NanoAODv9/ST_s-channel_4f_leptonDecays_TuneCP5up_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v2",
+  "nSumOfWeights_ISRUp": 9230796.199910257,
+  "nSumOfWeights_ISRDown": 9228370.583686162,
+  "nSumOfWeights_FSRUp": 9243231.819175363,
+  "nSumOfWeights_FSRDown": 9225665.776983976,
+  "nSumOfWeights_renormUp": 4511468.479676006,
+  "nSumOfWeights_renormDown": 4741701.254706745,
+  "nSumOfWeights_factUp": 4667306.164659918,
+  "nSumOfWeights_factDown": 4551127.677123281,
+  "nSumOfWeights_renormfactUp": 4567993.027569221,
+  "nSumOfWeights_renormfactDown": 4684745.3083886495
+}
