@@ -1,0 +1,33 @@
+{
+  "xsec": 1.0,
+  "year": "2017",
+  "treeName": "Events",
+  "histAxisName": "dataUL17",
+  "options": "",
+  "WCnames": [],
+  "files": [
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_1350.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_1464.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_1963.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_2050.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_2278.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_2538.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_2752.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_2833.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_2883.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_2918.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_3204.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_3388.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_3563.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_3669.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_3766.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_3984.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_4027.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_C-UL2017_NDSkim/output_4074.root"
+  ],
+  "nEvents": 136637888,
+  "nGenEvents": 136637888,
+  "nSumOfWeights": 136637888.0,
+  "isData": true,
+  "path": "/SingleElectron/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD"
+}

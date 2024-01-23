@@ -1,0 +1,22 @@
+{
+  "xsec": 1.0,
+  "year": "2016APV",
+  "treeName": "Events",
+  "histAxisName": "dataUL16APV",
+  "options": "",
+  "WCnames": [],
+  "files": [
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_E-HIPM_UL2016_NDSkim/output_682.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_E-HIPM_UL2016_NDSkim/output_690.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_E-HIPM_UL2016_NDSkim/output_691.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_E-HIPM_UL2016_NDSkim/output_697.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_E-HIPM_UL2016_NDSkim/output_708.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_E-HIPM_UL2016_NDSkim/output_717.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleElectron_E-HIPM_UL2016_NDSkim/output_762.root"
+  ],
+  "nEvents": 117269446,
+  "nGenEvents": 117269446,
+  "nSumOfWeights": 117269446.0,
+  "isData": true,
+  "path": "/SingleElectron/Run2016E-HIPM-UL2016_MiniAODv2_NanoAODv9-v2/NANOAOD"
+}

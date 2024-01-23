@@ -1,0 +1,26 @@
+{
+  "xsec": 1.0,
+  "year": "2016APV",
+  "treeName": "Events",
+  "histAxisName": "dataUL16APV",
+  "options": "",
+  "WCnames": [],
+  "files": [
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_711.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_719.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_728.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_739.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_743.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_751.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_759.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_769.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_770.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_773.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/SingleMuon_D-HIPM_UL2016_NDSkim/output_775.root"
+  ],
+  "nEvents": 98017996,
+  "nGenEvents": 98017996,
+  "nSumOfWeights": 98017996.0,
+  "isData": true,
+  "path": "/SingleMuon/Run2016D-HIPM-UL2016_MiniAODv2_NanoAODv9-v2/NANOAOD"
+}

@@ -1,0 +1,29 @@
+{
+  "xsec": 0.1651,
+  "year": "2017",
+  "treeName": "Events",
+  "histAxisName": "WWZ_centralUL17",
+  "options": "",
+  "WCnames": [],
+  "files": [
+    "/store/mc/RunIISummer20UL17NanoAODv9/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mc2017_realistic_v9-v1/270000/3BE737F8-FC8F-6D48-A80E-B4389EEFC057.root",
+    "/store/mc/RunIISummer20UL17NanoAODv9/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mc2017_realistic_v9-v1/280000/941320CA-8168-9B46-AB80-3ED0C9425386.root",
+    "/store/mc/RunIISummer20UL17NanoAODv9/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mc2017_realistic_v9-v1/130000/1C1221D0-39E7-E148-81E4-9DA3C8906B99.root",
+    "/store/mc/RunIISummer20UL17NanoAODv9/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mc2017_realistic_v9-v1/120000/CBE06030-A2A2-234A-85A1-729818F5202D.root",
+    "/store/mc/RunIISummer20UL17NanoAODv9/WWZ_4F_TuneCP5_13TeV-amcatnlo-pythia8/NANOAODSIM/106X_mc2017_realistic_v9-v1/280000/B9EBF4AF-E95D-8149-9AC0-A110D4B8986F.root"
+  ],
+  "nEvents": 178000,
+  "nGenEvents": 178000,
+  "nSumOfWeights": 30386.291709359997,
+  "isData": false,
+  "nSumOfWeights_ISRUp": 30382.93903383555,
+  "nSumOfWeights_ISRDown": 30386.748128346866,
+  "nSumOfWeights_FSRUp": 30323.55243015173,
+  "nSumOfWeights_FSRDown": 30417.42048225645,
+  "nSumOfWeights_renormUp": 29354.317680080538,
+  "nSumOfWeights_renormDown": 31630.748928149937,
+  "nSumOfWeights_factUp": 29925.949822715786,
+  "nSumOfWeights_factDown": 30942.4061507497,
+  "nSumOfWeights_renormfactUp": 28913.44254372264,
+  "nSumOfWeights_renormfactDown": 32225.087586898127
+}
