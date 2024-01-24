@@ -1,0 +1,32 @@
+{
+  "xsec": 1.0,
+  "year": "2017",
+  "treeName": "Events",
+  "histAxisName": "dataUL17",
+  "options": "",
+  "WCnames": [],
+  "files": [
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_1183.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_1184.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_1347.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_1554.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_1605.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_1721.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_1798.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_2015.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_2535.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_2617.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_2666.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_2912.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_2959.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_3304.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_3435.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_3457.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/DoubleEG_C-UL2017_NDSkim/output_3664.root"
+  ],
+  "nEvents": 65181125,
+  "nGenEvents": 65181125,
+  "nSumOfWeights": 65181125.0,
+  "isData": true,
+  "path": "/DoubleEG/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD"
+}

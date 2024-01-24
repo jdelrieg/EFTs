@@ -1,0 +1,19 @@
+{
+  "xsec": 1.0,
+  "year": "2017",
+  "treeName": "Events",
+  "histAxisName": "dataUL17",
+  "options": "",
+  "WCnames": [],
+  "files": [
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/MuonEG_E-UL2017_NDSkim/output_1511.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/MuonEG_E-UL2017_NDSkim/output_1763.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/MuonEG_E-UL2017_NDSkim/output_2881.root",
+    "/pool/phedex/topEFT/nanoAODv9/29mar2022/NDskims/data/MuonEG_E-UL2017_NDSkim/output_2882.root"
+  ],
+  "nEvents": 19043421,
+  "nGenEvents": 19043421,
+  "nSumOfWeights": 19043421.0,
+  "isData": true,
+  "path": "/MuonEG/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD"
+}
